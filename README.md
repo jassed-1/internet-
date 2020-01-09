@@ -2,7 +2,7 @@
 INTERNET.PY
 ================
 
-Uma simples calculadora de todos os sinais
+    Uma simples calculadora de todos os sinais
 
 
 ----
@@ -10,7 +10,7 @@ Uma simples calculadora de todos os sinais
 Executar
 ----------
 
-Efetuar a Execuçao do código-fonte:
+Efetuar a execução do código-fonte:
 
 
           $ python3 internet.py
@@ -22,7 +22,7 @@ Uso
 ---
 :
 
-Fazer calculos que chegam a sua velocidade de internet
+          Fazer calculos que chegam a sua velocidade de internet
 
 
 ----
